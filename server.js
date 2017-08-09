@@ -20,7 +20,7 @@ var articleone={
     var htmlTemplate=`
     <html>
     <head>
-    ${heading}
+    
         <title>
            ${title}
         </title>
